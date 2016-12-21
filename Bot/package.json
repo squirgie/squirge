@@ -1,0 +1,15 @@
+{
+  "name": "squirge",
+  "version": "1.0.0",
+  "description": "Software Quotation User Interface for Requirements Gathering and Estimation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Barbosa",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
